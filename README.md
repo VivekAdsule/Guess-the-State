@@ -56,7 +56,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Authors
 
-- [Your Name](https://github.com/VivekAdsule)
+-[VivekAdsule](https://github.com/VivekAdsule)
 
 ## License
 
